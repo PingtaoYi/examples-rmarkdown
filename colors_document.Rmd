@@ -64,7 +64,7 @@ plot_temps <- function(palette = c("magma",
 }
 ```
 
-## Viridis
+## 你好棒--这里是测试
 
 The [viridis](https://sjmgarnier.github.io/viridis/) package provides eight eye-catching color palettes to use in data visualizations:
 
